@@ -1,0 +1,9 @@
+md = markdown
+
+git status - initially shows this file as unstaged
+
+git add <file name.md> - adding this file moved from unstaged to staged
+
+check status - git status - will show file added
+
+now to to unstage - git restore --staged <file>...
