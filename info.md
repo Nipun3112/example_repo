@@ -12,6 +12,6 @@ now if there is chnaged in file then status will be updated then do add it again
 
 commit it again  - "git commit -m info.md"
 
-Then puch to main branch -  "git push origin main"
+Then push to main branch -  "git push origin main"
 
 Now if there is update in file from local and need to check the difference before commit then - "git diff info.md"
